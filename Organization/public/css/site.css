@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+.navbar-default {
+    background-color: #2a3566;
+    font-family: 'Mansalva', cursive;
+}
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #b5ae8a;
+}
